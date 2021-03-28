@@ -7,16 +7,14 @@ Open Android Studio Ver 3.6. +
 Pull from repository
 Build
 
-Run on an AR compatible phone
-  In general, API 24+
-  https://developers.google.com/ar/discover/supported-devices
+Run on an AR compatible phone.
+  In general: API 24+
+  For reference: https://developers.google.com/ar/discover/supported-devices
   
 Run on an AR enable emulator 
-  (x86, x86-64
+  In general: x86, x86-64
    API 27+,
-   Google Play: Latest Ver
-   ARcore SDK (AR Tools on google play.)
-   )
+  Needed: Google Play: Latest Ver ||| ARcore SDK (Google Play Services for AR)
    https://developers.google.com/ar/develop/c/emulator
    
    
