@@ -39,7 +39,8 @@ public class NavActivity extends AppCompatActivity {
     }
 
     private void toMap() {
-
+        Intent intent = new Intent(this, MapActivity.class);
+        startActivity(intent);
     }
 
 }
