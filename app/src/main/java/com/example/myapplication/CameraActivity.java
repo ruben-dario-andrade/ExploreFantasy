@@ -32,7 +32,7 @@ public class CameraActivity extends AppCompatActivity {
     }
 
     private void doModel(){
-        ModelRenderable.builder().setSource(this, R.raw.palmtree2)
+        ModelRenderable.builder().setSource(this, R.raw.tiger)
                 .build().thenAccept(renderable -> modelRenderable = renderable)
                 .exceptionally(throwable -> {
                     Toast.makeText(CameraActivity.this, "Model load failed", Toast.LENGTH_SHORT
