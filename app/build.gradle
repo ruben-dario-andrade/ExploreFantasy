@@ -1,5 +1,4 @@
 apply plugin: 'com.android.application'
-apply plugin: 'com.google.gms.google-services'
 
 
 android {
@@ -44,5 +43,6 @@ dependencies {
 }
 
 apply plugin: 'com.google.ar.sceneform.plugin'
+
 sceneform.asset('sampledata/palm_tree_02.obj', 'default',
 'sampledata/palm_tree_02.sfa', 'src/main/res/raw/palmtree2')
