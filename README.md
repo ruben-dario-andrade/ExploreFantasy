@@ -12,7 +12,7 @@ In general: API 24+
 
 For reference: https://developers.google.com/ar/discover/supported-devices
   
-Run on an AR enable emulator 
+Run on an AR enabled emulator 
 
 In general: x86, x86-64  API 27+,
 
