@@ -3,10 +3,9 @@ Augmented Reality Application
 
 Steps To Build:
 
-Open Android Studio Ver 3.6. +
-Pull from repository
-Build
-
+Open Android Studio Ver 3.6.+ ->
+Pull from repository ->
+Build -> 
 Run on an AR compatible phone.
 
 In general: API 24+
